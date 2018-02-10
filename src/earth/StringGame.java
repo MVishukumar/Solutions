@@ -42,6 +42,7 @@ public class StringGame {
 
 
                 System.out.print("After replacing " + c + " from " + inputString);
+                System.out.println();
 
                 String m = inputString.replaceAll(c, "");
                 //inputString = inputString.replaceAll(c, "");
